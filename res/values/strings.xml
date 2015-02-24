@@ -4,5 +4,21 @@
     <string name="app_name">YhooQuote</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="search">Search</string>
+    <string name="results">Results</string>
+    <string name="clearAll">Clear All</string>
+    <string name="title_activity_show_stock">ShowStockActivity</string>
+    
+    
+    <string name="symbol">Symbol</string>
+    
+    <string name="change">Change</string>
+    <string name="daysLow">Days Low</string>
+    <string name="daysHigh">Days High</string>
+    <string name="yearLow">YearLow</string>
+    
+    
+    <string name="YearHigh">YearHigh</string>
+    <string name="stockName">StockName</string>
+    
 </resources>
